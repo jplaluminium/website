@@ -1,0 +1,250 @@
+@charset "utf-8";
+@import url("../webfonts/supermarket/stylesheet.css?v=1001");
+/* CSS Document */
+
+.textshadow{
+    text-shadow: 0.05em 0.05em #000;
+}
+.white, .white a{
+	color: #FFF;
+	text-decoration: none;
+}
+.black{
+	color: #000;
+	text-decoration: none;
+}
+.black:hover{
+	color: #000;
+	text-decoration: none;
+}
+.gray{
+	color: #333;
+	text-decoration: none;
+}
+.graylink{
+	color: #ccc;
+	text-decoration: none;
+}
+.graylink:hover{
+	text-decoration: underline;
+}
+.blue{
+	color: #2e3191 !important;
+	text-decoration: none;
+	
+	
+}
+
+/*
+.green{
+	color: #14a77d;
+	text-decoration: none;
+	
+}
+.greenlink{
+	color: #333;
+	text-decoration: none;
+}
+.greenlink:hover{
+	color: #14a77d;
+	text-decoration: none;
+}
+*/
+.yellow{
+	color: #ffc206;
+	text-decoration: none;
+}
+.orange{
+    color: #ff9806;
+	text-decoration: none;
+}
+.pink{
+    color:#f766bb;
+	text-decoration: none;
+}
+.pupple{
+	color:#6c17a3;
+	text-decoration: none;
+}
+.red{
+    color:#ff0606;
+	text-decoration: none;
+}
+.redlink{
+	color:#000;
+	text-decoration: none;
+}
+.redlink:hover{
+	color:#aa001c;
+	text-decoration: none;
+}
+.font12{
+	font-size: 12px;
+	text-decoration: none;
+}
+.font14{
+	font-size: 14px;
+	text-decoration: none;
+}
+.font16{
+	font-size: 16px;
+	text-decoration: none;
+}
+.font18{
+	font-size: 18px;
+	text-decoration: none;
+}
+.font24{
+	font-size: 24px;
+	text-decoration: none;
+}
+.font30{
+	font-size: 30px;
+	text-decoration: none;
+}
+.tahoma16{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	text-decoration: none;
+}
+.super16,.super18,.super20,.super24,.super36{
+	font-family: supermarket;
+	font-size: 16px;
+	text-decoration: none;
+}
+.super18{
+	font-size: 18px;
+}
+.super20{
+	font-size: 20px;
+}
+.super24{
+	font-size: 24px;
+}
+.super36{
+	font-size: 36px;
+}
+@media screen and (max-width: 767px)
+{
+.font16{
+	font-size: 14px;
+}
+.font18{
+	font-size: 16px;
+}
+.font24{
+	font-size: 20px;
+}
+.font30{
+	font-size: 24px;
+}
+.thaisans24{
+	font-size: 20px;
+}
+.thaisans48{
+	font-size: 36px;
+}
+.thaisans60{
+	font-size: 48px;
+}
+.super16{
+	font-size: 16px;
+}
+.super18{
+	font-size: 16px;
+}
+.super20{
+	font-size: 16px;
+}
+.super24{
+	font-size: 20px;
+}
+.super36{
+	font-size: 28px;
+	line-height:180%;
+}
+}
+@media screen and (min-width: 768px)
+{
+.font16{
+	font-size: 16px;
+}
+.font18{
+	font-size: 18px;
+}
+.font24{
+	font-size: 22px;
+}
+.font30{
+	font-size: 26px;
+}
+.thaisans24{
+	font-size: 22px;
+}
+.thaisans48{
+	font-size: 40px;
+}
+.thaisans60{
+	font-size: 55px;
+}
+.super18{
+	font-size: 18px;
+}
+.super20{
+	font-size: 18px;
+	}
+.super36{
+	font-size: 34px;
+	line-height:200%;
+}
+}
+@media screen and (min-width: 992px)
+{
+.font16{
+	font-size: 16px;
+}
+.font18{
+	font-size: 18px;
+}
+.font24{
+	font-size: 24px;
+}
+.font30{
+	font-size: 30px;
+}
+.thaisans24{
+	font-size: 24px;
+}
+.thaisans48{
+	font-size: 48px;
+}
+.thaisans60{
+	font-size: 60px;
+}
+.super18{
+	font-size: 18px;
+}
+.super20{
+	font-size: 20px;
+}
+.super36{
+	font-size: 34px;
+	line-height:200%;
+}
+}
+@media screen and (min-width: 1200px)
+{
+.super16{
+	font-size: 16px;
+}
+.super20{
+	font-size: 20px;
+}
+.super24{
+	font-size: 24px;
+}
+.super36{
+	font-size: 36px;
+	line-height:200%;
+}
+}
