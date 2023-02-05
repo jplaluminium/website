@@ -73,14 +73,14 @@
 
 <!-- Body -->
 <div class="navmargin"></div>
-<iframe src="https://www.google.co.th/maps/place/%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97+%E0%B9%80%E0%B8%88%E0%B8%9E%E0%B8%B5%E0%B9%81%E0%B8%AD%E0%B8%A5+%E0%B8%AD%E0%B8%A5%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1+%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%AA+%E0%B8%88%E0%B8%B3%E0%B8%81%E0%B8%B1%E0%B8%94/@13.8421672,100.415307,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2914e62c94663:0xe6e2a41aa7efe927!8m2!3d13.842162!4d100.417501!16s%2Fg%2F11tp2gvry0?hl=en" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3873.9478786864647!2d100.41530695087357!3d13.842167198873542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e2914e62c94663%3A0xe6e2a41aa7efe927!2z4Lia4Lij4Li04Lip4Lix4LiXIOC5gOC4iOC4nuC4teC5geC4reC4pSDguK3guKXguLnguKHguLTguYDguJnguLXguKLguKEg4LmB4Lit4LiZ4LiU4LmM4LiB4Lil4Liy4LiqIOC4iOC4s-C4geC4seC4lA!5e0!3m2!1sth!2sth!4v1675619613784!5m2!1sth!2sth" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <div class="container " style="padding:0px;">
     <div class="row">
         <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1 font16">
             <h2>Contact Us</h2>
             <p><img src="images/markicon.png" width="18"></i> 5/10 หมู่ 12 ตำบล บางม่วง อำเภอ บางใหญ่ จังหวัดนนทบุรี 11140</p>
-            <img src="images/telephone2.png" width="18"></i> Tel : 081-483-7864,099-440-0555</p>
+            <img src="images/telephone2.png" width="18"></i> Tel : 080-503-1399,081-483-7864</p>
 		        <p><img src="images/emailicon1.png" width="18"></i> Email : jplaluminium@gmail.com</p>
 		        <p><a href="https://www.facebook.com/jplaluminium/" target="_blank" class="bluelink"><img src="images/faceicon2.png" width="17"> เจพีแอล อลูมิเนียม แอนด์ กลาส จำกัด</a></p>
             <p><img src="images/lineicon.png" width="18"> Line ID: @jplaluminium</p>
@@ -134,7 +134,7 @@
 		</div>
 		<div class="col-sm-4 col-md-4">
 			<h3 class="white">ติดต่อเรา</h3>
-		<img src="images/telephone1.png" width="17">  Tel : 081-483-7864,099-440-0555<br>
+		<img src="images/telephone1.png" width="17">  Tel : 080-503-1399,081-483-7864<br>
 		<img src="images/emailicon.png" width="17"> Email : jplaluminium@gmail.com<br>
 	   <a href="https://www.facebook.com/jplaluminium/" target="_blank"><img src="images/faceicon1.png" width="17"> บริษัท เจพีแอล อลูมิเนียม แอนด์ กลาส จำกัด</a><br><br>
 			5/10 หมู่ 12 ตำบล บางม่วง อำเภอ บางใหญ่ จังหวัดนนทบุรี 11140<br>
