@@ -34,7 +34,7 @@
   <div class="bgblue">
     <div class="container">
       <div class="row m0">
-        <div class="col-xs-12 col-sm-8 p5 white font14">TEL: 081-483-7864,099-440-0555 | Line ID: @jplaluminium</div>
+        <div class="col-xs-12 col-sm-8 p5 white font14">TEL: 080-503-1399,081-483-7864 | Line ID: @jplaluminium</div>
         <div class="col-xs-12 col-sm-4 text-right hidden-xs">
           <a href="https://www.facebook.com/jplaluminium/" target="_blank"><img src="images/faceicon1.png" width="30"></a>
           <a href="https://line.me/R/ti/p/%40jplaluminium" target="_blank"><img src="images/lineicon1.png" width="30"></a>

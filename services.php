@@ -33,7 +33,7 @@
   <div class="bgblue">
     <div class="container">
       <div class="row m0">
-        <div class="col-xs-12 col-sm-8 p5 white font14">TEL: 081-483-7864,099-440-0555 | Line ID: @jplaluminium</div>
+        <div class="col-xs-12 col-sm-8 p5 white font14">TEL: 080-503-1399,081-483-7864 | Line ID: @jplaluminium</div>
         <div class="col-xs-12 col-sm-4 text-right hidden-xs">
           <a href="https://www.facebook.com/jplaluminium/" target="_blank"><img src="images/faceicon1.png" width="30"></a>
           <a href="https://line.me/R/ti/p/%40jplaluminium" target="_blank"><img src="images/lineicon1.png" width="30"></a>
@@ -120,7 +120,7 @@
 		</div>
 		<div class="col-sm-4 col-md-4">
 			<h3 class="white">ติดต่อเรา</h3>
-		<img src="images/telephone1.png" width="17">  Tel : 081-483-7864,099-440-0555<br>
+		<img src="images/telephone1.png" width="17">  Tel : 080-503-1399,081-483-7864<br>
 		<img src="images/emailicon.png" width="17"> Email : jplaluminium@gmail.com<br>
 	   <a href="https://www.facebook.com/jplaluminium/" target="_blank"><img src="images/faceicon1.png" width="17"> บริษัท เจพีแอล อลูมิเนียม แอนด์ กลาส จำกัด</a><br><br>
 			5/10 หมู่ 12 ตำบล บางม่วง อำเภอ บางใหญ่ จังหวัดนนทบุรี 11140<br>
